@@ -1,4 +1,4 @@
-### Hi there 👋
+### Привет!👋 Меня зовут Иван и Junior Front-end developer.
 
 <!--
 **tsverkunov/tsverkunov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
