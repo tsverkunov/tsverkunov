@@ -2,7 +2,7 @@
 
 ### Мой стек:
 
-```HTML``` ```CSS``` ```JS``` ```BEM``` ```Figma``` ```GIT``` ```Webpack``` ```Node.js``` ```React.js``` ```Redux```
+```HTML``` ```CSS``` ```JS``` ```BEM``` ```Figma``` ```GIT``` ```ООП``` ```Webpack``` ```Node.js``` ```React.js``` ```Redux```
 
 ### Моя статистика:
 
