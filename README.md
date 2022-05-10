@@ -1,5 +1,10 @@
-### Привет!👋 Меня зовут Иван и Junior Front-end developer.
-# [GitHub Stats Visualization](https://github.com/tsverkunov/github-stats)
+### Привет!👋 Меня зовут Иван, я Junior Front-end developer.
+
+### Моя статистика:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsverkunov&hide=contribs)](https://github.com/tsverkunov/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsverkunov&layout=compact)](https://github.com/tsverkunov/github-readme-stats)
+
+
 <!--
 **tsverkunov/tsverkunov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
