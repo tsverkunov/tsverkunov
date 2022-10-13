@@ -45,10 +45,6 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"
         width="40" height="40"/> </a>
     </p>
-         
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-          
-
 
 ### :trophy: Моя статистика:
 
