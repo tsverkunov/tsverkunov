@@ -60,6 +60,6 @@ Interested in building high-quality products in strong engineering teams.
 
 ## 📫 Contact
 
-* Telegram: @ITsverkunov
+* Telegram: https://t.me/ITsverkunov
 * Email: tsverkunovivan@gmail.com
 * GitHub: https://github.com/tsverkunov
